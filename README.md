@@ -20,7 +20,7 @@ and function names needed for readable T7Patch Lua stack traces.
 - Call of Duty: Black Ops III
 - Black Ops III Mod Tools
 - [L3akMod](https://dtzxporter.com/tools/l3akmod)
-- T7Patch v3.07 or later
+- [T7Patch](https://github.com/Scroptss/T7Patch/releases) v3.07 or later
 
 T7 LuaForge does not include or install the game, BO3 Mod Tools, L3akMod, or
 T7Patch.
